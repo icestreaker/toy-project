@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+  body {
+    background-color: black;
+    color: red;
+    text-align: center;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: black;
+    color: red;
+    text-align: center;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}

@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}
+
+.Now {
+  text-align: center;
+  background-color: black;
+  color: red;
+}

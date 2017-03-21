@@ -1,0 +1,53 @@
+@media (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+
+    height: auto;
+    float: left;
+
+    height: auto;
+  }
+}
+
+.pop {
+  text-align: center;
+  background-color: black;
+  color: green;
+}
+
+.info {
+  text-align: center;
+  background-color: black;
+  color: orange;
+}
+
+.prob-align {
+  text-align: center;
+}
+
+.align {
+  text-align: justify;
+}
+
+.form-align {
+  text-align: justify;
+}
+
+.addUser {
+  border-top-style: solid;
+  border-top-color: white;
+  border-top-width: thin;
+}
